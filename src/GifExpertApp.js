@@ -5,7 +5,7 @@ import { GifGrid } from './components/GifGrid';
 const GifExpertApp = () => {
 
 
-    const [categories, setCategories] = useState(['Samurai X', 'madonna']);
+    const [categories, setCategories] = useState(['Sailor moon']);
 
     // const handleAdd = () => {
     //     //setCategories(['Cuarto',...categories]); ...categories se extrae todo el contenido del arreglo categories
